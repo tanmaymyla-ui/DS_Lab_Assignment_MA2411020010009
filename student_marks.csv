@@ -1,0 +1,13 @@
+StudentID,Subject,Marks,ExamType
+101,Math,85,Midterm
+101,Physics,78,Final
+102,Math,74,Final
+102,Chemistry,80,Midterm
+103,Physics,65,Final
+103,Chemistry,70,Final
+104,Math,90,Final
+104,Physics,88,Midterm
+105,Chemistry,76,Final
+105,Math,82,Midterm
+106,Physics,72,Final
+106,Math,68,Final
