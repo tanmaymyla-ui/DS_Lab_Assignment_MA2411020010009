@@ -11,8 +11,14 @@ Questions solved:
     
     Module 2 Question 4
 
-Module 1 Question 2: employee_names.csv
+Module 1 Question 2: 
 
-Module 2 Question 1: students.csv, student_names.csv
+    employee_names.csv
 
-Module 2 Question 4: tips.csv
+Module 2 Question 1: 
+    
+    students.csv, student_names.csv
+
+Module 2 Question 4: 
+    
+    tips.csv
